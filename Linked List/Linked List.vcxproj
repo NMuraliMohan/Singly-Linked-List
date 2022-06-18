@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Finding_position_of_node.cpp" />
     <ClCompile Include="Linked_list.cpp" />
   </ItemGroup>
   <ItemGroup>
